@@ -1,0 +1,21 @@
+.main-container{
+   margin: 0; 
+   height: 400px;
+}
+
+
+.flex-container{
+    display: flex;
+    height: 12.5%;
+}
+
+
+.flex-item{
+    background-color: aquamarine;
+    flex: 1 0 auto;
+    margin: 3px;
+    height: auto;
+}
+
+
+
